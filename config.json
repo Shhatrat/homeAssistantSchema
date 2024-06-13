@@ -4,9 +4,10 @@
     "items": [
         {
             "entity": "light.yeelight_color4_0x1573f06e",
-            "name": "sypialnia2",
+            "name": "sypialnia3",
             "type": "toggle"
-        },{
+        },
+        {
             "entity": "binary_sensor.0x00158d0007d1235b_contact",
             "name": "ss",
             "type": "binary_sensor"            
