@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/house-of-abbey/GarminHomeAssistant/main/config.schema.json",
+    "title": "szymon",
+    "items": [
+        {
+            "entity": "light.yeelight_color4_0x1573f06e",
+            "name": "TV lights",
+            "type": "toggle"
+        }
+    ]
+}
