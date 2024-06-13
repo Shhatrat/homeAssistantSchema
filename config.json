@@ -28,5 +28,6 @@
           "tap_action": {
             "service": "scene.turn_on"
         }
+        }
     ]
 }
