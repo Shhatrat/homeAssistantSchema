@@ -7,8 +7,8 @@
             "name": "sypialnia",
             "type": "toggle"
         },{
-            "entity": "light.yeelight_color4_0x1573f06e",
-            "name": "sypialnia",
+            "entity": "binary_sensor.0x00158d0007d1235b_contact",
+            "name": "ss",
             "type": "toggle"            
         }
     ]
