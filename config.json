@@ -28,6 +28,14 @@
           "tap_action": {
             "service": "scene.turn_on"
         }
+        },
+        {
+          "entity": "scene.spanie",
+          "name": "spanie",
+          "type": "tap",
+          "tap_action": {
+            "service": "scene.turn_on"
+        }
         }
     ]
 }
