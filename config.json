@@ -19,6 +19,7 @@
           "type": "tap",
           "tap_action": {
             "service": "scene.turn_on"
+        }
         },
         {
           "entity": "scene.kuchnia_czerwone",
