@@ -8,10 +8,10 @@
             "type": "toggle"
         },
         {
-            "name": "aaaa",
+            "name": "drzwi",
             "entity": "binary_sensor.0x00158d0007d1235b_contact",
             "type": "template",
-            "content": "{{ states('binary_sensor.0x00158d0007d1235b_contact') }}%"
+            "content": "{% if is_state('binary_sensor.0x00158d0007d1235b_contact', 'on') %}Open{% else %}Closed{% endif %} {% if is_state('binary_sensor.0x00158d0007d1235b_contact', 'on') %}Open{% else %}Closed{% endif %}"
         }
     ]
 }
