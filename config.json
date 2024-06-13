@@ -12,6 +12,21 @@
             "entity": "binary_sensor.0x00158d0007d1235b_contact",
             "type": "template",
             "content": "{% if is_state('binary_sensor.0x00158d0007d1235b_contact', 'on') %}Open{% else %}Closed{% endif %} {% if is_state('binary_sensor.0x00158d0007d1235b_contact', 'on') %}Open{% else %}Closed{% endif %}"
+        },
+        {
+          "entity": "scene.salon_normalne",
+          "name": "salon normalne",
+          "type": "tap",
+          "tap_action": {
+            "service": "scene.turn_on"
+        },
+        {
+          "entity": "scene.kuchnia_czerwone",
+          "name": "kuchnia czerwone",
+          "type": "tap",
+          "tap_action": {
+            "service": "scene.turn_on"
         }
+
     ]
 }
