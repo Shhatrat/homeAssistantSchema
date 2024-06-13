@@ -10,7 +10,7 @@
         {
             "entity": "binary_sensor.0x00158d0007d1235b_contact",
             "name": "ss",
-            "type": "binary_sensor"            
+            "type": "sensor"            
         }
     ]
 }
