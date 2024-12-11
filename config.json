@@ -13,7 +13,7 @@
           "type": "toggle"
         },
         {
-          "entity": "switch.przelacznik_swiatelka_przelacznik__2",
+          "entity": "switch.przelacznik_swiatelka_przelacznik_2",
           "name": "swiatelka",
           "type": "toggle"
         },
