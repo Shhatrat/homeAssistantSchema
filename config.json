@@ -8,6 +8,11 @@
             "type": "toggle"
         },
         {
+          "entity": "switch.ikea_of_sweden_tradfri_control_outlet_przelacznik",
+          "name": "IKEA Outlet",
+          "type": "toggle"
+        }
+        {
             "name": "drzwi",
             "entity": "binary_sensor.0x00158d0007d1235b_contact",
             "type": "template",
