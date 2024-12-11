@@ -9,7 +9,12 @@
         },
         {
           "entity": "switch.ikea_of_sweden_tradfri_control_outlet_przelacznik",
-          "name": "IKEA Outlet",
+          "name": "glowa",
+          "type": "toggle"
+        },
+        {
+          "entity": "switch.przelacznik_swiatelka_przelacznik2",
+          "name": "swiatelka",
           "type": "toggle"
         },
         {
