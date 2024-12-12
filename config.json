@@ -14,7 +14,7 @@
         },
         {
             "name": "drzwi",
-            "entity": "binary_sensor.0x00158d0007d1235b_contact",
+            "entity": "lumi.sensor_magnet.aq2",
             "type": "template",
             "content": "{% if is_state('binary_sensor.0x00158d0007d1235b_contact', 'on') %}Open{% else %}Closed{% endif %} {% if is_state('binary_sensor.0x00158d0007d1235b_contact', 'on') %}Open{% else %}Closed{% endif %}"
         },
